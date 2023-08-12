@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01a11a6f.css",
+    "main.js": "/static/js/main.6df42c35.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/dashboard_img.png": "/static/media/dashboard_img.f5bea4ed678bcd83354d.png",
+    "static/media/crousel1.png": "/static/media/crousel1.701a43dcaf7bd5e4918a.png",
+    "static/media/frequent_girl.png": "/static/media/frequent_girl.4adfaabb259fc671de6a.png",
+    "static/media/crousel2.png": "/static/media/crousel2.8151844bc1fb2a4f4104.png",
+    "static/media/crousel3.png": "/static/media/crousel3.2d57d3d1fea44781486a.png",
+    "static/media/footer_img.png": "/static/media/footer_img.798bb0bb3e7bc019d0f1.png",
+    "static/media/crousel4.png": "/static/media/crousel4.db5daca7a86aa7868c4d.png",
+    "static/media/ey.png": "/static/media/ey.bb7bd18a99f1f69d5537.png",
+    "static/media/hp.png": "/static/media/hp.8cf3a52f6bb5b17b6d12.png",
+    "static/media/amazon.png": "/static/media/amazon.4eec72065c42e9d08b65.png",
+    "static/media/barclays.png": "/static/media/barclays.f93a133fd5997ba8f0d5.png",
+    "static/media/con_img5.png": "/static/media/con_img5.0b5db6c02d836508529a.png",
+    "static/media/con_img3.png": "/static/media/con_img3.8f17346c77f42dac528e.png",
+    "static/media/accenture.png": "/static/media/accenture.4b826eba822b2055bad2.png",
+    "static/media/con_img1.png": "/static/media/con_img1.1a0eb111fd81b821a55d.png",
+    "static/media/con_img4.png": "/static/media/con_img4.f836c85ca3f83be1aee5.png",
+    "static/media/con_img2.png": "/static/media/con_img2.603b4445b82a206ad08e.png",
+    "static/media/find_card3.png": "/static/media/find_card3.a7cf847b3622bd80ae95.png",
+    "static/media/find_card2.png": "/static/media/find_card2.68d2ae9ba385d83a8163.png",
+    "static/media/image8.png": "/static/media/image8.6991a83ab9de458d4723.png",
+    "static/media/find_card1.png": "/static/media/find_card1.e1a0e3fdb0a414a302be.png",
+    "static/media/blog2.png": "/static/media/blog2.cef26d24296d73f72909.png",
+    "static/media/blog1.png": "/static/media/blog1.3118ade819ae44d5b5bb.png",
+    "static/media/image9.png": "/static/media/image9.0436f762a8ebe9832d4e.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.01a11a6f.css.map": "/static/css/main.01a11a6f.css.map",
+    "main.6df42c35.js.map": "/static/js/main.6df42c35.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a11a6f.css",
+    "static/js/main.6df42c35.js"
+  ]
+}
